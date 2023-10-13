@@ -1,7 +1,3 @@
-"""
-Course: Introduction to Python Programming
-Name: Matthew Class
-"""
 #%%
 def author():
     return "Matthew Class"
