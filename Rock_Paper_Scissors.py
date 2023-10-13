@@ -1,7 +1,3 @@
-"""
-Course: Introduction to Python Programming
-Student Name: Matthew Class
-"""
 # **NOTE**: I implemented the algorithmic decision making for the computer (Alg_ComputerPlayer) but had trouble downloading the numphy header file.
 #           I left the code in but was not able to test it so I do not know if it works, currently the program has the random decision making active
 #           for the computer (Rand_ComputerPlayer). I also have a comment in PlayGame() which line would need to be changed to choose between these options.
